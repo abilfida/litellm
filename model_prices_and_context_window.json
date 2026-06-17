@@ -35072,10 +35072,10 @@
         "source": "https://docs.z.ai/guides/overview/pricing"
     },
     "zai/glm-5.1": {
-        "cache_creation_input_token_cost": 0,
-        "cache_read_input_token_cost": 2.6e-07,
-        "input_cost_per_token": 1.4e-06,
-        "output_cost_per_token": 4.4e-06,
+        "cache_creation_input_token_cost": 0.000012,
+        "cache_read_input_token_cost": 0.000012,
+        "input_cost_per_token": 0.000012,
+        "output_cost_per_token": 0.000018,
         "litellm_provider": "zai",
         "max_input_tokens": 202752,
         "max_output_tokens": 65535,
@@ -40025,10 +40025,10 @@
         "source": "https://docs.z.ai/guides/overview/pricing"
     },
     "anthropic/glm-5.1": {
-        "cache_creation_input_token_cost": 0,
-        "cache_read_input_token_cost": 2.6e-07,
-        "input_cost_per_token": 1.4e-06,
-        "output_cost_per_token": 4.4e-06,
+        "cache_creation_input_token_cost": 0.000012,
+        "cache_read_input_token_cost": 0.000012,
+        "input_cost_per_token": 0.000012,
+        "output_cost_per_token": 0.000018,
         "litellm_provider": "anthropic",
         "max_input_tokens": 202752,
         "max_output_tokens": 128000,
@@ -40185,10 +40185,10 @@
         "source": "https://docs.z.ai/guides/overview/pricing"
     },
     "glm-5.1": {
-        "cache_creation_input_token_cost": 0,
-        "cache_read_input_token_cost": 2.6e-07,
-        "input_cost_per_token": 1.4e-06,
-        "output_cost_per_token": 4.4e-06,
+        "cache_creation_input_token_cost": 0.000012,
+        "cache_read_input_token_cost": 0.000012,
+        "input_cost_per_token": 0.000012,
+        "output_cost_per_token": 0.000018,
         "litellm_provider": "zai",
         "max_input_tokens": 202752,
         "max_output_tokens": 128000,
