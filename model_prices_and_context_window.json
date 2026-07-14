@@ -41119,7 +41119,7 @@
         "supports_tool_choice": true,
         "supports_vision": false
     },
-    "dashcope/qwen-3.6-plus": {
+    "dashcope/qwen3.6-plus": {
         "cache_creation_input_token_cost": 0.0000005,
         "cache_read_input_token_cost": 0.0000001,
         "code_interpreter_cost_per_session": 0.0,
@@ -41157,7 +41157,7 @@
         "supports_web_search": true,
         "vector_store_cost_per_gb_per_day": 0.0
     },
-    "dashcope/qwen-3.7-plus": {
+    "dashcope/qwen3.7-plus": {
         "cache_creation_input_token_cost": 0.0000004,
         "cache_read_input_token_cost": 0.00000008,
         "code_interpreter_cost_per_session": 0.0,
@@ -41195,7 +41195,7 @@
         "supports_web_search": true,
         "vector_store_cost_per_gb_per_day": 0.0
     },
-    "dashcope/qwen-3.7-max": {
+    "dashcope/qwen3.7-max": {
         "cache_creation_input_token_cost": 0.0000025,
         "cache_read_input_token_cost": 0.00000025,
         "code_interpreter_cost_per_session": 0.0,
@@ -41233,7 +41233,7 @@
         "supports_web_search": true,
         "vector_store_cost_per_gb_per_day": 0.0
     },
-    "qwen-3.6-plus": {
+    "qwen3.6-plus": {
         "cache_creation_input_token_cost": 0.0000005,
         "cache_read_input_token_cost": 0.0000001,
         "code_interpreter_cost_per_session": 0.0,
@@ -41271,7 +41271,7 @@
         "supports_web_search": true,
         "vector_store_cost_per_gb_per_day": 0.0
     },
-    "qwen-3.7-plus": {
+    "qwen3.7-plus": {
         "cache_creation_input_token_cost": 0.0000004,
         "cache_read_input_token_cost": 0.00000008,
         "code_interpreter_cost_per_session": 0.0,
@@ -41309,7 +41309,7 @@
         "supports_web_search": true,
         "vector_store_cost_per_gb_per_day": 0.0
     },
-    "qwen-3.7-max": {
+    "qwen3.7-max": {
         "cache_creation_input_token_cost": 0.0000025,
         "cache_read_input_token_cost": 0.00000025,
         "code_interpreter_cost_per_session": 0.0,
