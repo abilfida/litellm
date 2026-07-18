@@ -24425,6 +24425,7 @@
         "mode": "chat",
         "output_cost_per_reasoning_token": 0.000015,
         "output_cost_per_token": 0.000015,
+        "cache_read_input_token_cost": 0.0000003,
         "search_context_cost_per_query": {
             "search_context_size_high": 0.0,
             "search_context_size_low": 0.0,
@@ -41089,6 +41090,7 @@
         "mode": "chat",
         "output_cost_per_reasoning_token": 0.000015,
         "output_cost_per_token": 0.000015,
+        "cache_read_input_token_cost": 0.0000003,
         "search_context_cost_per_query": {
             "search_context_size_high": 0.0,
             "search_context_size_low": 0.0,
@@ -41789,6 +41791,7 @@
         "mode": "chat",
         "output_cost_per_reasoning_token": 0.000015,
         "output_cost_per_token": 0.000015,
+        "cache_read_input_token_cost": 0.0000003,
         "search_context_cost_per_query": {
             "search_context_size_high": 0.0,
             "search_context_size_low": 0.0,
