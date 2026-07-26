@@ -12676,9 +12676,6 @@
         "mode": "chat",
         "output_cost_per_token": 2.8e-07,
         "source": "https://api-docs.deepseek.com/quick_start/pricing",
-        "supported_endpoints": [
-            "/v1/chat/completions"
-        ],
         "supports_assistant_prefill": true,
         "supports_function_calling": true,
         "supports_native_streaming": true,
@@ -41187,9 +41184,6 @@
         "mode": "chat",
         "output_cost_per_token": 2.8e-07,
         "source": "https://api-docs.deepseek.com/quick_start/pricing",
-        "supported_endpoints": [
-            "/v1/chat/completions"
-        ],
         "supports_assistant_prefill": true,
         "supports_function_calling": true,
         "supports_native_streaming": true,
@@ -41212,9 +41206,6 @@
         "mode": "chat",
         "output_cost_per_token": 8.7e-07,
         "source": "https://api-docs.deepseek.com/quick_start/pricing",
-        "supported_endpoints": [
-            "/v1/chat/completions"
-        ],
         "supports_assistant_prefill": true,
         "supports_function_calling": true,
         "supports_native_streaming": true,
@@ -41511,9 +41502,6 @@
         "mode": "chat",
         "output_cost_per_token": 2.8e-07,
         "source": "https://api-docs.deepseek.com/quick_start/pricing",
-        "supported_endpoints": [
-            "/v1/chat/completions"
-        ],
         "supports_assistant_prefill": true,
         "supports_function_calling": true,
         "supports_native_streaming": true,
@@ -41536,9 +41524,6 @@
         "mode": "chat",
         "output_cost_per_token": 8.7e-07,
         "source": "https://api-docs.deepseek.com/quick_start/pricing",
-        "supported_endpoints": [
-            "/v1/chat/completions"
-        ],
         "supports_assistant_prefill": true,
         "supports_function_calling": true,
         "supports_native_streaming": true,
