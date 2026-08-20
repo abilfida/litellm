@@ -42647,13 +42647,13 @@
         "supports_video_input": true,
         "supports_vision": true
     },
-    "openai/semut-agent": {
-        "input_cost_per_token": 3e-07,
-        "input_cost_per_token_above_512k_tokens": 6e-07,
-        "output_cost_per_token": 1.2e-06,
-        "output_cost_per_token_above_512k_tokens": 2.4e-06,
-        "cache_read_input_token_cost": 6e-08,
-        "cache_read_input_token_cost_above_512k_tokens": 1.2e-07,
+    "openai/semut-auto": {
+        "input_cost_per_token": 0.00000045,
+        "input_cost_per_token_above_512k_tokens": 0.00000045,
+        "output_cost_per_token": 0.0000009,
+        "output_cost_per_token_above_512k_tokens": 0.0000009,
+        "cache_read_input_token_cost": 0.000000005,
+        "cache_read_input_token_cost_above_512k_tokens": 0.000000005,
         "litellm_provider": "openai",
         "mode": "chat",
         "supports_function_calling": true,
@@ -42664,16 +42664,15 @@
         "supports_pdf_input": true,
         "supports_vision": true,
         "max_input_tokens": 1000000,
-        "prompt_cache_min_tokens": 512,
         "max_output_tokens": 65535
     },
-    "semut-agent": {
-        "input_cost_per_token": 3e-07,
-        "input_cost_per_token_above_512k_tokens": 6e-07,
-        "output_cost_per_token": 1.2e-06,
-        "output_cost_per_token_above_512k_tokens": 2.4e-06,
-        "cache_read_input_token_cost": 6e-08,
-        "cache_read_input_token_cost_above_512k_tokens": 1.2e-07,
+    "semut-auto": {
+        "input_cost_per_token": 0.00000045,
+        "input_cost_per_token_above_512k_tokens": 0.00000045,
+        "output_cost_per_token": 0.0000009,
+        "output_cost_per_token_above_512k_tokens": 0.0000009,
+        "cache_read_input_token_cost": 0.000000005,
+        "cache_read_input_token_cost_above_512k_tokens": 0.000000005,
         "litellm_provider": "openai",
         "mode": "chat",
         "supports_function_calling": true,
@@ -42684,7 +42683,6 @@
         "supports_pdf_input": true,
         "supports_vision": true,
         "max_input_tokens": 1000000,
-        "prompt_cache_min_tokens": 512,
         "max_output_tokens": 65535
     }
 }
