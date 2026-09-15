@@ -12865,7 +12865,7 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": true
     },
     "deepseek.v3-v1:0": {
         "input_cost_per_token": 5.8e-07,
@@ -41982,7 +41982,7 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": true
     },
     "anthropic/qwen3.6-plus": {
         "cache_creation_input_token_cost": 0,
@@ -42352,7 +42352,7 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": true
     },
     "dashcope/qwen3.6-plus": {
         "cache_creation_input_token_cost": 0.0000005,
@@ -43654,7 +43654,7 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": true
     },
     "token/deepseek-v4-pro": {
         "cache_creation_input_token_cost": 0.0,
