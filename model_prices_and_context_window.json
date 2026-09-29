@@ -44313,7 +44313,7 @@
     "netra/deepseek-v4.1-flash": {
         "cache_creation_input_token_cost": 0.0,
         "cache_read_input_token_cost": 0.000000045,
-        "input_cost_per_token": 0.00000015,
+        "input_cost_per_token": 0.00000018,
         "input_cost_per_token_cache_hit": 0.000000045,
         "litellm_provider": "deepseek",
         "max_input_tokens": 1000000,
