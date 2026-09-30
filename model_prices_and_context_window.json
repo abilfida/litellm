@@ -44076,7 +44076,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/deepseek-v4-flash": {
         "cache_creation_input_token_cost": 0.0,
@@ -44097,7 +44102,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/deepseek-v4.1-flash": {
         "cache_creation_input_token_cost": 0.0,
@@ -44118,7 +44128,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/deepseek-v4-pro": {
         "cache_creation_input_token_cost": 0.0,
@@ -44139,7 +44154,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/minimax-m3": {
         "cache_creation_input_token_cost": 0.0,
@@ -44160,7 +44180,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/glm-5.3": {
         "cache_creation_input_token_cost": 0.0,
@@ -44181,7 +44206,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/glm-5.3-flash": {
         "cache_creation_input_token_cost": 0.0,
@@ -44202,7 +44232,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/glm-5.3-flashx": {
         "cache_creation_input_token_cost": 0.0,
@@ -44223,7 +44258,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/glm-5.2": {
         "cache_creation_input_token_cost": 0.0,
@@ -44244,7 +44284,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/glm-5.1": {
         "cache_creation_input_token_cost": 0.0,
@@ -44265,7 +44310,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "token/kimi-k3": {
         "cache_creation_input_token_cost": 0.0,
@@ -44286,7 +44336,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "netra/deepseek-v4-flash": {
         "cache_creation_input_token_cost": 0.0,
@@ -44308,7 +44363,12 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": false
+        "supports_vision": false,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     },
     "netra/deepseek-v4.1-flash": {
         "cache_creation_input_token_cost": 0.0,
@@ -44330,6 +44390,11 @@
         "supports_response_schema": true,
         "supports_system_messages": true,
         "supports_tool_choice": true,
-        "supports_vision": true
+        "supports_vision": true,
+        "supported_endpoints": [
+            "/v1/chat/completions",
+            "/v1/messages",
+            "/v1/responses"
+        ]
     }
 }
